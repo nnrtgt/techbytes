@@ -11,10 +11,10 @@ colab.research google.com
 
 Codelab:
 Hello ML!
-https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#5
+https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/
 
 Fashion MINST & Computer Vision
-https://developers.google.com/codelabs/tensorflow-lab2-computervision#1
+https://developers.google.com/codelabs/tensorflow-lab2-computervision
 
 
 
