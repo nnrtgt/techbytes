@@ -7,9 +7,9 @@ Tensorflow Playground:
 https://playground.tensorflow.org/
 
 Google Colab/Jupyter Notebook:
-colab.research google.com
+https://colab.research.google.com
 
-Codelab:
+Codelab: <BR>
 Hello ML!
 https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/
 
