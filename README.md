@@ -17,5 +17,7 @@ Fashion MINST & Computer Vision
 https://developers.google.com/codelabs/tensorflow-lab2-computervision
 
 
+Teachable Machine Sample
+https://teachablemachine.withgoogle.com/models/F_tntVzRC/
 
 
