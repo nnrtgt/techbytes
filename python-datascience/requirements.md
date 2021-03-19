@@ -107,10 +107,29 @@ for x in b:
 
 pandas was built on top of numpy
 
+handle large amount of data 
+
+handle missing entries
+
+read and write CSV, Excel 
+
+Series and DataFrame 
+
+import pandas as pd
+
+data = pd.Series ([1,2,4,53], index=['a','b','c','d'])
+data.values 
+data.index
+
+print (pd.__version__)
+
+you can create a dictionary and then create a series
+
+explicit index and implicit index
+what if the explicit index is also a number
 
 
-
-
+DataFrames:
 
 
 
