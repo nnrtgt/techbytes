@@ -19,7 +19,7 @@ b.shape[0]
 
 nbytes
 
-np.arange
+np.arange(start, end, increment)
 np.rando.permutation
 np.reshape
 np.zeroes
