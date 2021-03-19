@@ -30,6 +30,86 @@ np.zeroes
 a = np.arange(100)
 [0,1,...99]
 
+slicing 
+
+a[1:5] -- index 1 till 5 but not 5
+a[:5]. -- index 0 till 5 but not 5
+a[2:] -- index 2 till end including the last element
+a[::-1] -- from end till start (reverse the array)
+a[::2] -- from start till end eveery other element
+
+a[::2,:] ?
+
+
+Row
+Column
+sub matrix
+
+Transpose - A.T
+import numpy.linalg as la -- Linear Algebra Library
+
+la.inv (np.random.rand(3,3))
+
+Sorting 
+
+A.sort(axis=0) -- column wise 2 dimensional array
+A.sort(axis=1) -- row wise in 2 dimensional array
+
+multi-dimensional array axis can go beyond 2
+
+for one-d
+
+
+Fancy Indexing (Masking) - Copy of the Array vs View (in case of slicing)
+selective picking
+a[[1,4,6]] index 1, 4, 6 elements
+
+Boolean Mask - 
+a[[True, True, False, False, True, True]]
+
+elements less than 8 - boolean array
+a[a<8]
+
+and (single objects), & (arrays)
+
+a[(a<8) & (a>4)]
+a[a<8 and a>4]
+
+&, |, ~ and, or, not
+
+Broadcasting 
+
+A = A + 5
+
+Matches the size of the A
+
+Possible with other combinations 
+
+A + (np.arange(2).reshape(2,1))
+
+universal functions
+
+
+np.hstack
+np.vstack
+np.sort
+
+
+b = np.random.rand(100000)
+%timeit sum(b)
+%timeit np.sum(b)
+
+%%timeit
+s=0
+for x in b:
+  s+=x
+  
+
+pandas was built on top of numpy
+
+
+
+
 
 
 
