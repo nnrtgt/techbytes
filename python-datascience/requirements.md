@@ -2,6 +2,9 @@ Install Anaconda, so that you can access Jupyter Notebook
 or 
 You can login to Colab.research.google.com 
 
+https://www.youtube.com/watch?v=LHBE6Q9XlzI
+freeCodeCamp.org course on Python
+
 Data Structures - Slide 
 List, Dictionary, Tuple, 
 list of same type, heterogenous data type
