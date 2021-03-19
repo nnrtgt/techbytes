@@ -1,0 +1,86 @@
+Which of these crops were produced during the Autumn season? (select option with all that apply)
+ Arecanut, Arhar/Tur, Bajra, Castor seed
+ Paddy, Maize, Moong (Green Gram), Onion, Sunflower
+ Banana, Coriander, Gram, Rapeseed and Mustard
+ Rice, Sugarcane, Paddy, Ragi
+
+
+During which year, Uttar Pradesh had the highest crop production?
+
+ 2013
+ 2011
+ 1997
+ 2008
+
+
+The maximum and minimum area used for production were in the years __
+
+1997 and 2014
+ 1998 and 2015
+ 1997 and 2015
+ 1999 and 2005
+
+
+Which state in India had the lowest crop production? (overall, for all years)
+
+Meghalaya
+ Chandigarh
+ Mizoram
+ Manipur
+
+What were the top three produced crops in the year 2015?
+ Wheat, Potato, Rice
+ Coconut, Potato, Sugarcane
+ Coconut, Sugarcane, Rice
+ Rice, Sugarcane, Maize
+
+What is the standard deviation for Area of production?
+ 52957.44002417 (approx.)
+ 12167.414481909 (approx.)
+ 50857.44002417 (approx.)
+ 2586479205.812 (approx.)
+
+
+Which is the crop that gave highest production to the state Madhya Pradesh?
+ Sugarcane
+ Wheat
+ Banana
+ Coconut
+
+Which of the following statements is true? (Select all that applies)
+ The overall production during the Kharif season is 2,029,970,000 (approx.)
+ The overall production during the Summer season is 170,657,900 (approx.)
+ The overall production during the Autumn season is 14,413,770 (approx.)
+ The overall production during the Kharif season is 4,029,970,000 (approx.)
+
+Which state had the highest area of production?
+ Tamil Nadu
+ Uttar Pradesh
+ Kerala
+ Karnataka
+
+
+What is the mean for area of production?
+ 17065.81 (approx.)
+ 12167.4 (approx.)
+ 24236.10 (approx.)
+ 58250.34 (approx.)
+
+What is the correlation coefficient between Area and Production?
+ 40.587
+ 0.40587
+ 4.0587
+ 0.040587
+
+The crops that had the highest production (in the correct order) were?
+ Coconut, Sugarcane, Wheat, Potato, Rice
+ Gram, Jute, Soya bean, Maize, Cotton
+ Coconut, Sugarcane, Rice, Wheat, Potato
+ Sugarcane, Wheat, Soya bean, Potato, Coconut
+
+Which is the only crop that had the highest production during the autumn, summer and winter seasons?
+ Rice
+ Maize
+ Paddy
+ Jute
+![image](https://user-images.githubusercontent.com/70046428/111744374-223dda80-88b1-11eb-91b2-264051444a1c.png)
